@@ -10,7 +10,7 @@ Essa implementação corresponde a um projeto de Iniciação Científica (e, por
 - Floyd-Warshall.ipynb: utilização do algoritmo de Floyd-Warshall como pré-processamento do grafo para calcular todos os possíveis caminhos entre todos os nós. A vantagem é a utilização uma única vez do cálculo do caminho mais curto. Nessa implementação, também se considera processar mais de um caminho para encontrar um válido para processar a requisição. Essa implementação trouxe resultados satisfatórios
 - Gerador de Instâncias.ipynb: programa externo para geração de arquivos de instância.
 - X.txt: arquivo de instância de número X
-- log_X.txt: arquivo de log da instância X, no qual cada linha apresenta "Requisicao <id-da-requisicao> | Sensor <objeto-Sensor-origem-da-requisicao> | <numero-de-caminhos-testados> caminhos testados | Selecionado: <caminho-selecionado>"
+- log_X.txt: arquivo de log da instância X, no qual cada linha apresenta "Requisicao [id-da-requisicao] | Sensor [objeto-Sensor-origem-da-requisicao] | [numero-de-caminhos-testados] caminhos testados | Selecionado: [caminho-selecionado]"
 - mapa_calor_X.html: mapa de calor da instância X
 
 ## Discussões/Hipóteses pendentes do problema
