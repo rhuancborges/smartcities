@@ -1,0 +1,127 @@
+% de requisições por sensor = 10% do número de sensores
+
+INSTÂNCIA 1
+Total de requisições: 5475
+ % de requisições processadas: 100.0% (5475 processadas)
+ % de arcos usados: 41.0958904109589%
+ Largura de banda usada: 14.872000000000455
+ Custo gasto: 0.2927071999999779
+
+INSTÂNCIA 2
+Total de requisições: 5684
+ % de requisições processadas: 100.0% (5684 processadas)
+ % de arcos usados: 44.44444444444444%
+ Largura de banda usada: 15.47300000000053
+ Custo gasto: 0.3074731999999768
+
+INSTÂNCIA 3
+Total de requisições: 5715
+ % de requisições processadas: 100.0% (5715 processadas)
+ % de arcos usados: 38.88888888888889%
+ Largura de banda usada: 15.732000000000546
+ Custo gasto: 0.3153759999999739
+
+INSTÂNCIA 4
+Total de requisições: 12961
+ % de requisições processadas: 99.86112182701952% (12943 processadas)
+ % de arcos usados: 44.72573839662447%
+ Largura de banda usada: 36.751000000000786
+ Custo gasto: 1.0998915999998997
+
+INSTÂNCIA 5
+Total de requisições: 12974
+ % de requisições processadas: 99.91521504547556% (12963 processadas)
+ % de arcos usados: 46.186440677966104%
+ Largura de banda usada: 36.7570000000008
+ Custo gasto: 1.0906239999999
+
+INSTÂNCIA 6
+Total de requisições: 13351
+ % de requisições processadas: 98.50947494569695% (13152 processadas)
+ % de arcos usados: 45.06437768240343%
+ Largura de banda usada: 38.341000000001294
+ Custo gasto: 1.170236199999903
+
+INSTÂNCIA 7
+Total de requisições: 22294
+ % de requisições processadas: 98.38970126491434% (21935 processadas)
+ % de arcos usados: 31.952662721893493%
+ Largura de banda usada: 57.99300000000553
+ Custo gasto: 1.430689599999954
+
+INSTÂNCIA 8
+Total de requisições: 23254
+ % de requisições processadas: 98.07775006450503% (22807 processadas)
+ % de arcos usados: 33.33333333333333%
+ Largura de banda usada: 62.91500000000654
+ Custo gasto: 1.6557920000000121
+
+INSTÂNCIA 9
+Total de requisições: 22450
+ % de requisições processadas: 98.43652561247215% (22099 processadas)
+ % de arcos usados: 33.59683794466403%
+ Largura de banda usada: 60.11400000000612
+ Custo gasto: 1.5363093999999724
+
+INSTÂNCIA 10
+Total de requisições: 35887
+ % de requisições processadas: 96.55585588095968% (34651 processadas)
+ % de arcos usados: 20.38765254845657%
+ Largura de banda usada: 0.19471279200005315
+ Custo gasto: 0.0059765648112006095
+
+INSTÂNCIA 11
+Total de requisições: 36067
+ % de requisições processadas: 94.0277816286356% (33913 processadas)
+ % de arcos usados: 20.41547277936963%
+ Largura de banda usada: 0.1909844640000502
+ Custo gasto: 0.005861587705600517
+
+INSTÂNCIA 12
+Total de requisições: 36024
+ % de requisições processadas: 93.49045081057074% (33679 processadas)
+ % de arcos usados: 20.15725518227305%
+ Largura de banda usada: 0.18997622400004543
+ Custo gasto: 0.00579907887040047
+
+INSTÂNCIA 13
+Total de requisições: 139567
+ % de requisições processadas: 84.01197990929089% (117253 processadas)
+ % de arcos usados: 10.449994245597882%
+ Largura de banda usada: 0.7604891680005369
+ Custo gasto: 0.02676571380319634
+
+INSTÂNCIA 14
+Total de requisições: 137417
+ % de requisições processadas: 85.31549953790288% (117238 processadas)
+ % de arcos usados: 10.301565377532228%
+ Largura de banda usada: 0.7069760720005224
+ Custo gasto: 0.02359921725119308
+
+INSTÂNCIA 15
+Total de requisições: 139556
+ % de requisições processadas: 84.27512969703919% (117611 processadas)
+ % de arcos usados: 10.309872134546712%
+ Largura de banda usada: 0.7585841200005202
+ Custo gasto: 0.02673056637759664
+
+INSTÂNCIA 16
+Total de requisições: 494481
+ % de requisições processadas: 56.079606698740704% (277303 processadas)
+ % de arcos usados: 9.96572711694144%
+ Largura de banda usada: 1.6144798160007656
+ Custo gasto: 0.05220347835045337
+
+INSTÂNCIA 17
+Total de requisições: 492924
+ % de requisições processadas: 56.13299413296979% (276693 processadas)
+ % de arcos usados: 9.868265595463138%
+ Largura de banda usada: 1.600617312000811
+ Custo gasto: 0.05163018707525052
+
+INSTÂNCIA 18
+Total de requisições: 503669
+ % de requisições processadas: 54.99802449624654% (277008 processadas)
+ % de arcos usados: 9.875668172824192%
+ Largura de banda usada: 1.5941438480008134
+ Custo gasto: 0.051371501622450993
